@@ -6,4 +6,7 @@
  
  
 [ How To Use ]
-First, Extract It Using WinRAR
+First, Extract It Using WinRAR or 7Zip
+Make Sure To Select {Extract To TlauncherPortableProject}
+Then Run TLauncher.exe or Tlauncher If You Have Not Turned On {Show File Extensions}
+And Then You're Done
